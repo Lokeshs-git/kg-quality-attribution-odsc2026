@@ -1,0 +1,11 @@
+# Attendee environment for the AdventureWorks tutorial notebook.
+# Tested with Python 3.13 on both the minimum versions below and the latest releases (Oct 2026).
+pandas>=2.2
+pyarrow>=14
+networkx>=3.2
+duckdb>=1.1
+lightgbm>=4.3
+shap>=0.46
+scikit-learn>=1.5
+matplotlib>=3.8
+jupyterlab>=4

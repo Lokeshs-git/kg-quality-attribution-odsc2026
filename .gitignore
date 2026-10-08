@@ -1,0 +1,18 @@
+# Executed notebooks and other private material, kept out of the public repo
+local/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data-prep download cache (the Parquet tables in data/aw are committed on purpose)
+.aw_cache/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
